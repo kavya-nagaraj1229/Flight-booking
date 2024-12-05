@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/kavya-nagaraj1229/Flight-booking/static/css/main.3d2999e4.css",
+    "main.js": "/kavya-nagaraj1229/Flight-booking/static/js/main.e43c1f28.js",
+    "static/media/pic.jpeg": "/kavya-nagaraj1229/Flight-booking/static/media/pic.c477352d6c602b4630c4.jpeg",
+    "static/media/laddy1.jpeg": "/kavya-nagaraj1229/Flight-booking/static/media/laddy1.b85410e4cdcdc30868c7.jpeg",
+    "static/media/c3.jpeg": "/kavya-nagaraj1229/Flight-booking/static/media/c3.29d0db5588b5f6ea7c49.jpeg",
+    "static/media/div4.jpeg": "/kavya-nagaraj1229/Flight-booking/static/media/div4.22aefd46b5f660871b02.jpeg",
+    "static/media/window2.jpeg": "/kavya-nagaraj1229/Flight-booking/static/media/window2.9dac8da781f99eee4b43.jpeg",
+    "static/media/c111.jpeg": "/kavya-nagaraj1229/Flight-booking/static/media/c111.67ffc386b0ece025b5e0.jpeg",
+    "static/media/div2.jpeg": "/kavya-nagaraj1229/Flight-booking/static/media/div2.22da41ecab27d0f5665e.jpeg",
+    "static/media/c2.jpeg": "/kavya-nagaraj1229/Flight-booking/static/media/c2.c9b32981056c16c76e1a.jpeg",
+    "static/media/laddy2.jpeg": "/kavya-nagaraj1229/Flight-booking/static/media/laddy2.2af0db3c27af51ed7298.jpeg",
+    "static/media/laddy3.jpeg": "/kavya-nagaraj1229/Flight-booking/static/media/laddy3.2af0db3c27af51ed7298.jpeg",
+    "static/media/div3.jpeg": "/kavya-nagaraj1229/Flight-booking/static/media/div3.6e9549d4fa57b6a9dd4b.jpeg",
+    "static/media/laddy4.jpeg": "/kavya-nagaraj1229/Flight-booking/static/media/laddy4.fcfe13cf6eeeea7f4095.jpeg",
+    "static/media/div1.jpeg": "/kavya-nagaraj1229/Flight-booking/static/media/div1.876e10e968e25e428721.jpeg",
+    "index.html": "/kavya-nagaraj1229/Flight-booking/index.html",
+    "main.3d2999e4.css.map": "/kavya-nagaraj1229/Flight-booking/static/css/main.3d2999e4.css.map",
+    "main.e43c1f28.js.map": "/kavya-nagaraj1229/Flight-booking/static/js/main.e43c1f28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d2999e4.css",
+    "static/js/main.e43c1f28.js"
+  ]
+}
